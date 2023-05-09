@@ -16,3 +16,8 @@ Planned:
 Stretch:
 
 - [ ] Save the inputs to database every 1 seconds so that values are not lost accidentally
+
+
+Major Features completed:
+
+TO BE UPDATED
