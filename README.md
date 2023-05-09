@@ -20,4 +20,4 @@ Stretch:
 
 Major Features completed:
 
-TO BE UPDATED
+- TO BE UPDATED
