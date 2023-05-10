@@ -6,6 +6,9 @@ MVP:
 
 * [X] Create a Simple balance calculator (Amount income - cost of expense)
 * [ ] Create a backend where user inputs and calculations are stored, and can be called back.
+  * [X] Create config
+  * [X] Create models
+  * [ ] Create controllers and populate CRUD
 
 Planned:
 
@@ -16,7 +19,6 @@ Planned:
 Stretch:
 
 - [ ] Save the inputs to database every 1 seconds so that values are not lost accidentally
-
 
 Major Features completed:
 
